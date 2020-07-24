@@ -1,3 +1,7 @@
+# Estimating Evolutionary Volatility in a Maximum-Likelihood Framework
+
+The scripts in this repository are built to generate and analyze maximum-likelihood estimates of evolutionary volatility using fossil data. The input data should come from the [paleobiology database](pbdb.org). There is an example dataset, `pbdb_data_full.csv`, in this repository. Below is a demonstration of how to use the code:
+
 
 ## Initialization
 
